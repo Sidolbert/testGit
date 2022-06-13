@@ -16,6 +16,7 @@ public class Main {
 		System.out.println("ajoutez une ligne");
 		System.out.println("ça ne s'arrêtera jamais");
 		System.out.println("mais vraiment jamais");
+		System.out.println("la vie en rose");
 	}
 
 }
