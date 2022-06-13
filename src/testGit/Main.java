@@ -9,6 +9,8 @@ public class Main {
 		System.out.println("mon projet fonctionne !");
 		System.out.println("et j'arrive à faire des commit");
 		System.out.println("et je les pushe à distance !");
+		//un commentaire avec ma ligne
+		System.out.println("et d'autres personnes peuvent le récupérer !");
 
 	}
 
