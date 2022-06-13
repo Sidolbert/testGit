@@ -7,6 +7,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		System.out.println("mon projet fonctionne !");
+		System.out.println("et j'arrive à faire des commit");
 
 	}
 
